@@ -114,7 +114,6 @@ st.title('K-Means Clustering Visualizer')
 # Sidebar for user inputs
 st.sidebar.header('Parameters')
 
-# GitHub and LinkedIn logos with clickable links
 github_logo = "https://cdn-icons-png.flaticon.com/128/733/733609.png"
 linkedin_logo = "https://cdn-icons-png.flaticon.com/128/2504/2504923.png"
 
