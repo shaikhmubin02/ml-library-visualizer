@@ -17,17 +17,13 @@ Click on a button below to navigate to the corresponding visualizer:
 
 ## About the Project
 
-ML Library Visualizer is an educational tool designed to help users understand the inner workings of various machine learning algorithms through interactive visualizations. To contribute or explore the project, visit the [GitHub repository](https://github.com/your-username/ml-library-visualizer).
+ML Library Visualizer is an educational tool designed to help users understand the inner workings of various machine learning algorithms through interactive visualizations.
 
 ## How to Use
 
 1. Click on one of the visualizer buttons above.
 2. Follow the instructions on each visualizer page to interact with the algorithm.
 3. Observe how changes in parameters affect the algorithm's behavior and output.
-
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for more details.
 
 ## License
 
