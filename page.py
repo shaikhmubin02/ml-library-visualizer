@@ -71,7 +71,7 @@ def main():
     {button_style}
     <div style="display: flex; justify-content: space-around;">
         <a href="https://k-means-visualizer.streamlit.app" class="custom-button">K-means Visualizer</a>
-        <a href="/Neural_Network_Visualizer" class="custom-button">Neural Network Visualizer</a>
+        <a href="https://nn-visualizer.streamlit.app/" class="custom-button">Neural Network Visualizer</a>
     </div>
     """
 
